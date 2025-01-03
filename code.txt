@@ -1,0 +1,15 @@
+var l=1;
+do{
+    n-i;
+    i=i+1;
+    continue;
+    do{
+        i=1+1;
+        do{
+            k=k-1;
+        }while(k);
+        break;
+    }while(!n&&!(n-1||i*n));
+    var y,z=j*i-10;
+}while(i<
+10);
